@@ -1,5 +1,5 @@
 # Example alkanes amm flashswap contract
-Below is the 
+Below is the main opcode and signature needed to receive flashloans
 ```
     #[opcode(73776170)]
     Callback {
